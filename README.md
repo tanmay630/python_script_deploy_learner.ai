@@ -5,8 +5,6 @@
  
 # Hubspot  private application Credenials.
   Access_Token = pat-na1-b227dddf-4073-4cfd-a129-3ba784c865c9
-  Account_Name = learner.Ai(test)
+  Account_Name = learner.Ai(24066322)
   App_Name = Convincing-Umbrella
  #RSA KEY IS attached for EC2 instance deployment
- 
-  
