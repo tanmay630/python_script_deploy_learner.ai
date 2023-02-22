@@ -132,7 +132,7 @@ class ContactUpdater:
 
 if __name__ == "__main__":
     # Create an instance of the ContactUpdater class
-    cu = ContactUpdater(client_id="d984097d-7fd1-4a8c-b39a-51c1bbcbe740", client_secret="eb596ae8-96ff-40b5-925c-4284b68dd1e9", refresh_token="pat-na1-fd3af4fc-cb8b-421f-b277-8f9f2c3eab56")
+    cu = ContactUpdater(client_id="d984097d-7fd1-4a8c-b39a-51c1bbcbe740", client_secret="eb596ae8-96ff-40b5-925c-4284b68dd1e9", refresh_token="pat-na1-b227dddf-4073-4cfd-a129-3ba784c865c9")
 
     # Create tables and insert data
     cu.create_table()
